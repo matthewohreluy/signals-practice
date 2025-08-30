@@ -2,7 +2,7 @@
 
 ## Objective
 You will refactor and enhance a simple shopping cart application by using **Angular Signals**.  
-This quiz will test your understanding of signals (`signal`, `computed`, `effect`), user interactions, and state management in Angular.
+This quiz will test your understanding of signals (`signal`, `computed`, `input`, `output`) and user interactions in Angular.
 
 ---
 
